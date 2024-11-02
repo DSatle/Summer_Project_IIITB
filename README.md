@@ -37,7 +37,12 @@ The cv2.VideoCapture(0) function opens the webcam feed, processes frames continu
 
 Model and Label Map Loading
 
+The model and label map are loaded once at the start:
+
 ![image](https://github.com/user-attachments/assets/9f8e3099-3bc9-4312-a3e9-e9d6ab66a932)
+
+![image](https://github.com/user-attachments/assets/3c913ba0-9e9e-4c4c-85eb-3636193a2278)
+
 
 
 
