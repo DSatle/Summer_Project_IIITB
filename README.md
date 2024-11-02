@@ -43,6 +43,27 @@ The model and label map are loaded once at the start:
 
 ![image](https://github.com/user-attachments/assets/3c913ba0-9e9e-4c4c-85eb-3636193a2278)
 
+Running Inference on Each Frame
+
+![image](https://github.com/user-attachments/assets/6d8022af-9b1e-4fe9-99ae-f8b4549d7aeb)
+
+Real-Time Processing Loop
+
+The following code captures frames from the webcam, processes them, and displays the output until interrupted:
+
+![image](https://github.com/user-attachments/assets/949eeaf2-625e-437a-be30-2967f99e73f4)
+
+Output Visualisation
+
+![image](https://github.com/user-attachments/assets/cf7e3824-ea57-4559-ba87-a04b30ed47c3)
+
+The real time output of the project can be accessed via the below link
+
+https://iiitbac-my.sharepoint.com/:v:/r/personal/divyam_satle_iiitb_ac_in/Documents/Summer_intern/Object_detection_demo.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DKPBlq
+
+
+
+
 
 
 
